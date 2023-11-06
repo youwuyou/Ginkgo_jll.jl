@@ -1,0 +1,9 @@
+[[ginkgo]]
+arch = "x86_64"
+git-tree-sha1 = "2488f7e3825d413466a67cabd1cd7aa2e8d5e8c3"
+libc = "glibc"
+os = "linux"
+
+    [[ginkgo.download]]
+    sha256 = "1d89092472b04664a6f5ab8279445c4648310d1b95ed1781e8d17210c74f0a95"
+    url = "https://github.com/youwuyou/ginkgo_jll.jl/releases/download/ginkgo-v1.6.0+0/ginkgo.v1.6.0.x86_64-linux-gnu.tar.gz"
