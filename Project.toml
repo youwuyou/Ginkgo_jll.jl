@@ -1,6 +1,6 @@
 name = "ginkgo_jll"
 uuid = "e4326e8b-370f-5d90-bbd6-f077a22d5a69"
-version = "1.6.2+0"
+version = "1.6.3+0"
 
 [deps]
 JLLWrappers = "692b3bcd-3c85-4b1f-b108-f13ce0eb3210"
